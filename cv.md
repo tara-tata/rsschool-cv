@@ -1,5 +1,7 @@
 # Tetiana Radchenko
 
+![Alt-фмфефк](https://media-exp1.licdn.com/dms/image/C4D03AQHh6cDyRB7ACg/profile-displayphoto-shrink_200_200/0/1573028461360?e=1660176000&v=beta&t=fmCjF2bYdGeWkrgdn-NRYWhRweBXyx3_Wo2z_Ovddoo)
+
 *******************
 
 ## Contacts
