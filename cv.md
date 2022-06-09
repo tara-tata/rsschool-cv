@@ -1,7 +1,5 @@
 # Tetiana Radchenko
 
-![Alt-avatar](https://scontent.ffra2-1.fna.fbcdn.net/v/t1.6435-9/45483832_2693306597349834_6616153624907087872_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=d1fsV4vLXckAX_AskQ0&_nc_ht=scontent.ffra2-1.fna&oh=00_AT-BaCjyQE7wO5WZ6rF4P9hqf7p8mwxWstdzIJQdf8ogOQ&oe=62C92996)
-
 *******************
 
 ## Contacts
@@ -65,9 +63,9 @@ if (newNumParam.length < 16) {
 
 * **Univercity:** Taras Shevchenko National University of Kyiv (2007) - Philology, Translation
 * **Courses:**
-+ Web design beginning - Projector
-+ JavaScript Essential - CyberBionic Systematics
-+ Software Testing «Тестування.START» - Testing Galaxy
+    + Web design beginning - Projector
+    + JavaScript Essential - CyberBionic Systematics
+    + Software Testing «Тестування.START» - Testing Galaxy
 
 ********************
 
