@@ -4,11 +4,11 @@
 
 ## Contacts
 
-**Telegram:** +380679524344
+Telegram: +380679524344
 
-**GitHub:** tara-tata
+GitHub: tara-tata
 
-**[LinkedIn]**(https://www.linkedin.com/in/tania-radchenko/)
+[LinkedIn](https://www.linkedin.com/in/tania-radchenko/)
 
 ********************
 ## About Myself
