@@ -3,9 +3,110 @@
 <head>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
-   <title>Template</title>
-   <link rel="stylesheet" href="css/style.css">
+   <title>CV</title>
+   <link rel="stylesheet" href="style.css">
+   <link rel="icon" href="assets/favicon.ico">
+   <link rel="preconnect" href="https://fonts.gstatic.com">  
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
   </head>
    <body>
+      <header>
+         <div class="container">
+<nav class="nav">
+  <ul class="nav-list">
+    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+    <li class="nav-item"><a href="#summary" class="nav-link">About Myself</a></li>
+    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+    <li class="nav-item"><a href="#code" class="nav-link">Code example</a></li>
+    <li class="nav-item"><a href="#experience" class="nav-link">Experience</a></li>
+    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+    <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+  </ul>
+</nav>
+         
+            <h1>Tetiana Radchenko</h1>
+         <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHh6cDyRB7ACg/profile-displayphoto-shrink_200_200/0/1573028461360?e=1660176000&v=beta&t=fmCjF2bYdGeWkrgdn-NRYWhRweBXyx3_Wo2z_Ovddoo" alt="avatar">
+      </div>
+         </header> 
+
+         <main class="main-container">
+            <div class="container">
+<hr />
+<section class="section" id="contacts">
+<h2>Contacts</h2>
+<p><b>Telegram:</b> +380679524344</p>
+<a href="https://github.com/tara-tata">GitHub: tara-tata</a><br />
+<a href="https://www.linkedin.com/in/tania-radchenko/">LinkedIn</a>
+<hr />
+</section>
+<section class="section" id="summary">
+<h2>About Myself</h2>
+<p>I’m interested in IT development. I explored differend brunches of it: software testing, web design, programming. And I found out, that front-end is suits me the most.</p>
+<hr />
+</section>
+<section class="section" id="skills">
+<h2>Skills</h2>
+<ul>
+<li>HTML/CSS</li>
+<li>JavaScript</li>
+<li>SASS</li>
+<li>Git, GitHub, GitLab</li>
+</ul>
+<hr />
+</section>
+<section class="section" id="code">
+<h2>Code example</h2>
+<pre>
+<code>
+function calculateSum(arr) {
+   let result = arr.reduce(function(sum, current) {
+      return sum + current;
+   });
+  return result;
+}
+
+</code>
+</pre>
+<hr />
+</section>
+<section class="section" id="experience">
+   <h2>Experience</h2>
+   <ul>
+<li>Since 11.2021 - Content Manager (Rozetka.ua)</li>
+<li>2019-2020 - Microfilm indexing (Ossenberg Digitalisierung und Software GmbH)</li>
+</ul>
+<hr />
+</section>
+<section class="section" id="education">
+<h2>Education</h2>
+<ul>
+<li>Univercity: Taras Shevchenko National University of Kyiv (2007) - Philology, Translation</li>
+<li>Courses:
+<ul>
+<li>Web design beginning - Projector</li>
+<li>JavaScript Essential - CyberBionic Systematics</li>
+<li>Software Testing «Тестування.START» - Testing Galaxy</li>
+</ul>
+</li>
+</ul>
+<hr />
+</section>
+<section class="section" id="languages">
+<h2>Languages</h2>
+<ul>
+<li>English - upper-intermediate</li>
+<li>German - basic</li>
+</ul>
+<img src="https://user-images.githubusercontent.com/12942745/172846431-cd3622de-e670-47d9-a028-942b28de223b.png" alt="sertificate">
+
+<p>I use English in everyday life, because now I live in Germany and can use German only at the basic level.</p>
+</section>
+</div>
+</main>
+<footer>
+   <div class="container">
+      <a href="https://github.com/tara-tata"><img src="data:image/png;base64,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" alt="github" id="git"></a>
+   </div>
+</footer>
   </body>
 </html>
